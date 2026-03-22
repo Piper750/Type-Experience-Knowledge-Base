@@ -122,6 +122,3 @@ llm:
 - 上下文融合：`src/pipeline.py`
 - 实验与消融：`src/evaluation.py` + `scripts/run_ablation.py`
 
-## 说明
-
-当前工作区未检测到你原先提到的真实 `math_datasets` 目录，因此我额外放入了一套 demo 数据来保证工程可跑。你只要把 demo 换成你的真实数据，整体流程不需要大改。
