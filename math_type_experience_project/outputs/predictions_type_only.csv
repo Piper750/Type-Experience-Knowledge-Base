@@ -1,0 +1,13 @@
+id,dataset,subject,difficulty,question,gold_answer,pred_answer,correct,mode,latency_sec,query_fine_type,num_retrieved
+amc10_test_1,amc10_demo,algebra,medium,Solve for x: x/4 + 7 = 10.,12,12,True,type_only,0.005158,linear_equation,4
+amc10_test_2,amc10_demo,geometry,medium,What is the area of a triangle with base 12 and height 5?,30,30,True,type_only,0.002587,triangle_area,4
+amc10_test_3,amc10_demo,number_theory,medium,Find the least common multiple of 6 and 8.,24,24,True,type_only,0.002531,lcm,4
+amc10_test_4,amc10_demo,algebra,medium,Two consecutive integers sum to 31. What is the smaller integer?,15,15,True,type_only,0.002237,consecutive_integers,4
+gsm8k_test_1,gsm8k_demo,arithmetic,easy,A store sells notebooks for 3 dollars each. Lan buys 4 notebooks and then pays 2 more dollars for a pen. How much does she spend in total?,14,14,True,type_only,0.002453,arithmetic_total_cost,4
+gsm8k_test_2,gsm8k_demo,ratio,easy,"The ratio of red marbles to blue marbles is 5:2. If there are 15 red marbles, how many blue marbles are there?",6,6,True,type_only,0.002523,ratio_scale,4
+gsm8k_test_3,gsm8k_demo,percentage,easy,What is 40% of 50?,20,20,True,type_only,0.002465,percentage,4
+gsm8k_test_4,gsm8k_demo,average,easy,"What is the average of 4, 8, 12, and 16?",10,10,True,type_only,0.002524,average,4
+math_test_1,math_demo,algebra,easy,Solve for x: 4*x - 6 = 18.,6,6,True,type_only,0.004311,linear_equation,4
+math_test_2,math_demo,geometry,easy,A rectangle has length 9 and width 6. What is its area?,54,54,True,type_only,0.002591,rectangle_area,4
+math_test_3,math_demo,number_theory,easy,What is the remainder when 73 is divided by 8?,1,1,True,type_only,0.002444,remainder,4
+math_test_4,math_demo,combinatorics,easy,In how many ways can you choose 3 students from 6 students?,20,20,True,type_only,0.002367,combinations,4

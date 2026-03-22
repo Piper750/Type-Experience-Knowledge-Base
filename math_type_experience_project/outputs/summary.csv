@@ -1,0 +1,5 @@
+mode,num_samples,num_correct,accuracy,avg_latency_sec
+zero_shot,12,12,1.0,0.003896
+type_only,12,12,1.0,0.002849
+experience_only,12,12,1.0,0.002917
+full,12,12,1.0,0.002765
