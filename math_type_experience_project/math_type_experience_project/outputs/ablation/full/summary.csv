@@ -1,2 +1,0 @@
-mode,num_samples,num_correct,accuracy,avg_latency_sec
-full,12,12,1.0,0.002641
