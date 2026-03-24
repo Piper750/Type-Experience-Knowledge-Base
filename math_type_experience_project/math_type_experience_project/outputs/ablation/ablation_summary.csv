@@ -1,0 +1,8 @@
+ablation,mode,accuracy,avg_latency_sec,num_samples,kb_entries
+zero_shot,zero_shot,1.0,0.004088,12,12
+type_only,type_only,1.0,0.002927,12,12
+experience_only,experience_only,1.0,0.002916,12,12
+full,full,1.0,0.002641,12,12
+no_validation,full,1.0,0.002902,12,12
+no_refinement,full,1.0,0.002666,12,12
+no_advanced_generation,full,1.0,0.003051,12,12

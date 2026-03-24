@@ -1,0 +1,26 @@
+{
+  "num_entries": 12,
+  "coarse_type_counts": {
+    "algebra": 3,
+    "geometry": 2,
+    "number_theory": 2,
+    "arithmetic": 4,
+    "combinatorics": 1
+  },
+  "fine_type_counts": {
+    "linear_equation": 2,
+    "triangle_area": 1,
+    "gcd": 1,
+    "consecutive_integers": 1,
+    "arithmetic_total_cost": 1,
+    "ratio_scale": 1,
+    "percentage": 1,
+    "average": 1,
+    "rectangle_perimeter": 1,
+    "remainder": 1,
+    "combinations": 1
+  },
+  "num_train_records": 12,
+  "num_eval_records": 12,
+  "dataset_root": "/mnt/data/下载/math_datasets"
+}
