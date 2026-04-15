@@ -1,6 +1,6 @@
 ## Type-Experience Knowledge Base
 
-这是一个围绕“题型—经验知识库（Type-Experience Knowledge Base）”构建的可运行实验工程，目标是把你的研究方案变成一套真正能执行的离线建库 + 在线检索增强推理流水线。
+这是一个围绕“题型—经验知识库（Type-Experience Knowledge Base）”构建的可运行实验，目标是构建“离线建库 + 在线检索增强推理”的数学推理框架。
 
 ## 目录结构
 
